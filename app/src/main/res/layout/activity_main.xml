@@ -34,7 +34,7 @@
         app:layout_constraintVertical_bias="0.239" />
 
     <TextView
-        android:id="@+id/txt_Start"
+        android:id="@+id/txt_Question"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Are you ready to start answering IMAD5112 questions?"
